@@ -12,7 +12,7 @@ Json-server. I created the site using the Alura course.
 ## Download
 
 ```sh
-https://github.com/eucesar/JavaScript-creating-requests.git
+https://github.com/eucesar/JavaScript-validating-forms.git
 ```
 
 ## Cesar
