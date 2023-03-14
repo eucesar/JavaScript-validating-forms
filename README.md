@@ -5,8 +5,7 @@
   <img align="center" alt="Cesar-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 </p>
 
-> 🌱👨‍💻 - I created a mock API. I made GET requests to return data from an API. I built POST requests to register data in an API. Reinforced my knowledge in asynchronous javascript. I handled possible request errors returned from the API. I learned how to turn a static page into a dynamic one - NodeJS |
-Json-server. I created the site using the Alura course.
+> 🌱👨‍💻 - I learned how to apply form validation attributes with HTML5. I built validations for the CPF check digits. Implemented majority validations from date comparison. I customized error messages for each form field type. I integrated the user's webcam into a browser screen. Captured photos via webcam. I saved and edit saved data in the browser. I created the site using the Alura course.
 
 
 ## Download
